@@ -3,7 +3,7 @@
 Designed a Neural Net to classify activity done by an individual into 12 Categories using Smartphone sensor data.
 Since, most of the smartphones are equipped with tri-axial sensors which keeps track of orientation of the smartphone in space.
 
-In this project the data from the orientation data (x/y/z - axis) from smartphone is logged and fed to a neural net to classify the activites 
+In this project the data from the orientation data (x/y/z - axis) from smartphone is logged as a dataframe and fed to a neural net to classify the activites 
 the smartphone owner is doing.
 
 12- Activity Categories:
